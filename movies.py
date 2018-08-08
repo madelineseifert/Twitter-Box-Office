@@ -1,0 +1,10 @@
+movies = ["Rampage", "Avengers: Inifity War", "Deadpool 2",
+"Show Dogs", "Adrift", "Hereditary", "Ocean's 8",
+"Won't You Be My Neighbor", "Gotti", "Tag", "Jurassic World: Fallen Kingdom", "Leave No Trace", "Sanju", 
+"Sicario: Day of the Soldado", "Uncle Drew", "The First Purge",
+"Ant-Man and The Wasp", "Sorry To Bother You", "Soorma",
+"Eighth Grade", "Hotel Transylvania 3: Summer Vacation", "Skyscraper",
+"Incredibles 2", "Blindspotting", "Mamma Mia! Here We Go Again", "The Equalizer 2",
+"Unfriended: Darkweb", "Mission Impossible Fallout", "Scotty and the Secret History of Hollywood",
+"Teen Titans GO! To the Movies", "Saheb Biwi Aur Gangster 3", "Disney's Christopher Robin",
+"The Darkest Minds", "Never Goin' Back", "The Spy Who Dumped Me"]
